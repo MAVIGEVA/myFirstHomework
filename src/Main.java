@@ -18,5 +18,6 @@ public class Main {
         System.out.println(dogMinus);
         System.out.println(catMinus);
         System.out.println(paperMinus);
+
     }
 }
